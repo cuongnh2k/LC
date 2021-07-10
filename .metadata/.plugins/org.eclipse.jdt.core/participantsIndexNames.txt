@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\Users\CT030408\Documents\Eclipse\LC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1326442128.index
+\Servlet\src\main\java
+C:\Users\CT030408\Documents\Eclipse\Web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2494429062.index
+\L&C\src\main\java
+C:\Users\CT030408\Documents\Eclipse\LC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2708776297.index
+\LC\src\main\java
+C:\Users\CT030408\Documents\Eclipse\Web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2708776297.index
+\LC\src\main\java
+C:\Users\CT030408\Documents\Eclipse\LC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2562037704.index
+\BanHang\src\main\java
+C:\Users\CT030408\Documents\Eclipse\Web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2562037704.index
+\BanHang\src\main\java
