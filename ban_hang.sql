@@ -87,8 +87,12 @@ create table don_hang (
   trang_thai varchar(255) default 'Chờ xác nhận',
   maKH int
 );
-ALTER TABLE don_hang ADD CONSTRAINT lien_ket_01 FOREIGN KEY (maKH) REFERENCES nguoi_dung(ma);
-INSERT INTO `ban_hang`.`nguoi_dung` (`tai_khoan`, `email`, `matKhau`, `isAdmin`) VALUES ('admin', 'nguyenhuucuong23102000@gmail.com', '1', '1');
+ALTER TABLE don_hang 
+ADD CONSTRAINT lien_ket_01 
+FOREIGN KEY (maKH) 
+REFERENCES nguoi_dung(ma);
+INSERT INTO `ban_hang`.`nguoi_dung` (`tai_khoan`, `email`, `matKhau`, `isAdmin`)
+VALUES ('admin', 'nguyenhuucuong23102000@gmail.com', '1', '1');
 INSERT INTO `ban_hang`.`the_loai` (`ten`) VALUES ('Laptop');
 INSERT INTO `ban_hang`.`the_loai` (`ten`) VALUES ('Camera');
 
