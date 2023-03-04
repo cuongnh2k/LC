@@ -9,7 +9,7 @@ public class DBContext {
 	public Connection getConnection() {
 		final String url = "jdbc:mysql://localhost:3306/ban_hang";
 		final String user = "root";
-		final String password = "231020";
+		final String password = "lan chó";
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
 			return DriverManager.getConnection(url, user, password);
